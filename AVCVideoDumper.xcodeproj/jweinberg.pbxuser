@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	256AC3D90F4B6AC300CF3369 /* AVCVideoDumperAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 510}}";
+			sepNavSelRange = "{531, 0}";
+			sepNavVisRange = "{0, 674}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82B8743D104CB2B3005767F1 /* AVCVideoDumper */;
+		activeTarget = 8D1107260486CEB800E47090 /* AVCVideoDumper */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AVCVideoDumper */,
+		);
+		codeSenseManager = 82B87447104CB2BC005767F1 /* Code sense */;
+		executables = (
+			82B8743D104CB2B3005767F1 /* AVCVideoDumper */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					773,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274002807;
+			PBXWorkspaceStateSaveDate = 274002807;
+		};
+		perUserProjectItems = {
+			8228F711104E219D00D0F30F /* PBXTextBookmark */ = 8228F711104E219D00D0F30F /* PBXTextBookmark */;
+			8228F7F5104F843800D0F30F /* PBXTextBookmark */ = 8228F7F5104F843800D0F30F /* PBXTextBookmark */;
+			828437C510580BEC006A1424 /* PBXTextBookmark */ = 828437C510580BEC006A1424 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82B87446104CB2BC005767F1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8228F711104E219D00D0F30F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AVCVideoDumperAppDelegate.m */;
+		name = "AVCVideoDumperAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 531;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 0;
+	};
+	8228F7F5104F843800D0F30F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B87444104CB2BC005767F1 /* AVCVideoCapController.mm */;
+		name = "AVCVideoCapController.mm: 251";
+		rLen = 9;
+		rLoc = 8703;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 8621;
+	};
+	828437C510580BEC006A1424 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82B87444104CB2BC005767F1 /* AVCVideoCapController.mm */;
+		name = "AVCVideoCapController.mm: 255";
+		rLen = 0;
+		rLoc = 8820;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 8606;
+	};
+	82B8743D104CB2B3005767F1 /* AVCVideoDumper */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AVCVideoDumper;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	82B87444104CB2BC005767F1 /* AVCVideoCapController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 23205}}";
+			sepNavSelRange = "{8820, 0}";
+			sepNavVisRange = "{8606, 975}";
+		};
+	};
+	82B87446104CB2BC005767F1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82B87447104CB2BC005767F1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107260486CEB800E47090 /* AVCVideoDumper */ = {
+		activeExec = 0;
+		executables = (
+			82B8743D104CB2B3005767F1 /* AVCVideoDumper */,
+		);
+	};
+}

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AVCVideoDumper' target in the 'AVCVideoDumper' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
